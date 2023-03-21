@@ -1,0 +1,20 @@
+{
+  "name": "ticket-manager-agokulram1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/ticket-manager-agokulram1.git"
+  },
+  "keywords": [],
+  "author": "Gokul Ram <aramgokul@gmail.com> (https://github.com/agokulram1)",
+  "license": "RVCC",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/ticket-manager-agokulram1/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/ticket-manager-agokulram1#readme"
+}
